@@ -18,7 +18,7 @@ I'm Suraj Kumar, a passionate Python Web Developer from India.
 
 ## GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surajkumarsaw1&show_icons=true&theme=dark)
+![My GitHub Stats](./profile/stats.svg)
 
 ## 💻 Tech Stack
 
@@ -69,7 +69,7 @@ I'm Suraj Kumar, a passionate Python Web Developer from India.
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajkumarsaw1&layout=compact&theme=dracula)
+![Top Languages](./profile/top-langs.svg)
 
 ## Connect with Me
 
